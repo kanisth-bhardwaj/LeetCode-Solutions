@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
