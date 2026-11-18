@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
