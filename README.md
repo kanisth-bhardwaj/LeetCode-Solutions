@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0386-lexicographical-numbers](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
