@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -185,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanisth-bhardwaj/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
